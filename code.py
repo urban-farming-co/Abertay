@@ -167,6 +167,7 @@ if __name__ == '__main__':
 
     displayProcesses(Score, picture, processedImage)
     savePlantImage(processedImage)
+
     print(Score)
     print(Width)
     print(Height)
