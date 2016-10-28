@@ -3,6 +3,7 @@ Shared Code between us and them.
 
 
 ## How to access our data
+you could parse:  [view|test.tablefarm.co.uk/urbanfarming/viewcontent?x=1&u=1]  (x == number of rows, u == user id)
 I don't know what technologies you're using, so I'll tell you how I do it. Both instructions certainly work on the linux commandline.
 ---
 node js
