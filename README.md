@@ -27,5 +27,6 @@ psql postgres commandline tool
 ## Basic image process / pheno typing
 I've supplied some quick image processing that will find the plant within the image based on green pixels.  
 
-  other ways of finding the plant are - 1 using a depth map from stereo cameras and removing any pixels that are further away than the plant can be.  
+  other ways of finding the plant are -   
+  1 using a depth map from stereo cameras and removing any pixels that are further away than the plant can be.  
   2. using a completly plane background, finding those pixels and ignoring them.
