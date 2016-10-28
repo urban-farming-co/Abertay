@@ -20,7 +20,7 @@ I made a little node program that lists the tables - obviously you can edit it. 
 psql postgres commandline tool
 ---
 • psql -d postgres://bxxxdrcy:CusgDp8CGYvi4lu56rDDLuRWcF46PZiv@qdjjtnkv.db.elephantsql.com:5432/bxxxdrcy  
-• set search_path to urbanfarming,public;   // so the psql program looks in the right place. *note* urbanfarming <comma> public  
+• set search_path to urbanfarming,public;   // so the psql program looks in the right place. *note* urbanfarming COMMA public  
 • \dt      
 
 # Quick note about the database
